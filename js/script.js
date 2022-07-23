@@ -1,20 +1,20 @@
 "use strict";
 
-// let a = 5,
-// 	b = a;
+let a = 5,
+	b = a;
 
-// b = b + 5;
-// console.log(a);
-// console.log(b);
+b = b + 5;
+console.log(a);
+console.log(b);
 
-const obj = {
-	a: 5,
-	b: 1,
-};
+// const obj = {
+// 	a: 5,
+// 	b: 1,
+// };
 
-const copy = obj;
-copy.a = 10;
-console.log(copy);
+// const copy = obj; // эта запись ссылается на данные obj
+// copy.a = 10;
+// console.log(copy);
 
 // Массивы - структура которая содержит элементы по порядку
 
