@@ -9,8 +9,8 @@ console.log(b);
 
 // time comment
 
-let new = 10;
-
+let newapi = 23; // new branch
+const ol = 23;
 // const obj = {
 // 	a: 5,
 // 	b: 1,
