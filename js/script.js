@@ -9,6 +9,8 @@ console.log(b);
 
 // time comment
 
+let new = 10;
+
 // const obj = {
 // 	a: 5,
 // 	b: 1,
