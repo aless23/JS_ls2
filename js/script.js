@@ -6,7 +6,8 @@ let a = 5,
 b = b + 5;
 console.log(a);
 console.log(b);
-// новый комментарий
+
+let b = 4; 
 
 // const obj = {
 // 	a: 5,
