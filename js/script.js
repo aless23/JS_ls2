@@ -8,6 +8,7 @@ console.log(a);
 console.log(b);
 
 let b = 4; 
+let s = 5;
 
 // const obj = {
 // 	a: 5,
