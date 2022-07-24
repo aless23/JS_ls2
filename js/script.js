@@ -7,6 +7,8 @@ b = b + 5;
 console.log(a);
 console.log(b);
 
+// time comment
+
 // const obj = {
 // 	a: 5,
 // 	b: 1,
