@@ -155,7 +155,7 @@ const ol = 23;
 // __название папки__/ - vim комманда для исключения из внимания
 // git branch new-api - создание новой ветки с именем new-api
 // git checkout new-api - переключиться на указанную ветку
-// git merge - слияние веток
+// git merge - слияние веток (git checkout main -> git merge new-api) просле чего все изменения из new-api попадут в main
 // git branch -d new-api - удаление веток
 // git remote add origin ссылка с GitHub добавляет удалённый репозиторий с именем origin
 // git remote -v подробный список доступных репозиториев
